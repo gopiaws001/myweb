@@ -1,0 +1,8 @@
+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
+
+git remote set-url origin https://<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>@github.com/gopiaws001/myweb.git
+
+
+push
+
+git push -u origin master
